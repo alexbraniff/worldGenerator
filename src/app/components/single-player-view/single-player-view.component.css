@@ -1,0 +1,9 @@
+:host ::ng-deep #instructions {
+    position: absolute;
+    top: 0px;
+    left: 15px;
+    right: -15px;
+    bottom: 0px;
+    background: #000000;
+    opacity: 0.75;
+}
