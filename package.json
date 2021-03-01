@@ -34,7 +34,7 @@
     "ngx-toastr": "^9.0.2",
     "node-sass": "^4.12.0",
     "rxjs": "^6.0.0",
-    "three": "^0.95.0",
+    "three": "^0.125.0",
     "three-orbitcontrols-ts": "^0.1.2",
     "zone.js": "^0.8.26"
   },
